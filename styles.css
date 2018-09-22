@@ -34,6 +34,17 @@ div#wrapper {
     margin: auto;
     border-radius: 5px;
     opacity: 0.9;
+    text-align: center;
+}
+
+span {
+    font: normal 16px Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    padding-bottom: 10px;
+}
+
+span#pairsFound {
+    margin-right: 30px;
 }
 
 .grid {
