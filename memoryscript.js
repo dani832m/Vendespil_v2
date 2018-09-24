@@ -113,6 +113,10 @@ grid.addEventListener('click', function (event) {
 
 });
 
+function goBack() {
+  window.history.back()
+}
+
 //Alt herunder styrer timeren
 function startTimer(duration, display) {
   var timer = duration, minutes, seconds;
