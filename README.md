@@ -8,7 +8,7 @@ Memory Game udviklet med HTML5, CSS3 og JavaScript.
 - Hvis der er match, fjernes kortene (stikket) fra boardet. Hvis der ikke er match, vises bagsiden igen.
 - Hvis der er match, så inkrementeres antallet af fundne par desuden med 1.
 - Når vinduet loades, starter der en timer, som tæller ned fra 1 minut.
-- Når tiden er gået, reloades siden, og man kan begynde forfra igen.
+- Når tiden er gået, angives antal fundne par i en alert-box, siden reloades, og man kan begynde forfra igen.
 
 ## Screenshot
-![alt text](https://i.imgur.com/Vprroyk.png)
+![alt text](https://i.imgur.com/f8DKw5q.png)
